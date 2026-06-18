@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Security Dashboard",
+  "description": "A comprehensive web-based cybersecurity operations center (SecOps) offering log analysis, alert monitoring, incident handling, notifications, and basic administrative systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
